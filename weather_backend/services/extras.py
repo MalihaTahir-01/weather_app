@@ -1,6 +1,6 @@
 import os
 from urllib.parse import quote_plus
-from services.extras import get_extras
+
 import requests
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
